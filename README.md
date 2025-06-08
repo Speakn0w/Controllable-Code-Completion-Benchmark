@@ -7,6 +7,7 @@ pip install vllm transformers tqdm torch rich fuzzywuzzy numpy aiohttp requests
 ## Dataset
 
 The dataset should be downloaded from HuggingFace: https://huggingface.co/datasets/zjj1233/CCC-bench
+
 The dataset should be in JSONL format with each line containing:
 - prefix: Code before the target completion area
 - suffix: Code after the target completion area
