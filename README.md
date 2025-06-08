@@ -1,7 +1,3 @@
-# Code Completion Evaluation Tool
-
-This tool evaluates code completion models on their ability to generate appropriate middle code that connects given prefix and suffix code segments while following specific instructions.
-
 ## Requirements
 
 ```bash
